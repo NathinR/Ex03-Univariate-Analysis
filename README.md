@@ -81,7 +81,8 @@ sns.boxplot(x="Insulin",data=df1)
 ![image](https://user-images.githubusercontent.com/118679646/227997477-c0ae0c20-19fa-4ca0-be51-c04c139b6319.png)
 
 
-
+# RESULT:
+Thus we have read the given data and performed the univariate analysis with different types of plots.
 
 
 
